@@ -10,7 +10,6 @@ public class LoginScreenModel {
 
 	public void navigateToMe() {
 		System.out.println("Акрана на вход в системата е отворен.");
-
 	}
 
 	public void setUsername(final String username) {
